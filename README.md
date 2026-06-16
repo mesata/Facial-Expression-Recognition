@@ -76,4 +76,5 @@ Backward Pass: 0.014725 წამი
 <img width="774" height="447" alt="image" src="https://github.com/user-attachments/assets/468d34ec-603f-4863-9282-3c1e9b87946c" />
 
 რეპორტი : https://wandb.ai/mesatia-free-university-of-tbilisi-/facial-expression-recognition/reports/Facial-Expression-Recognition-Report--VmlldzoxNzI0ODIyOQ
+
 პროექტი : https://wandb.ai/mesatia-free-university-of-tbilisi-/facial-expression-recognition/overview
